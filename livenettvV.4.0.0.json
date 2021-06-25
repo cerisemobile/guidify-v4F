@@ -14,8 +14,8 @@
       "mode_ads_banner": "huawei",
       "mode_ads_interstitial": "huawei",
       "mode_ads_native": "huawei",
-      "mode_ads_mediumrect": "facebook",
-      "mode_ads_rewarded": "facebook",
+      "mode_ads_mediumrect": "huawei",
+      "mode_ads_rewarded": "huawei",
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_id": [
