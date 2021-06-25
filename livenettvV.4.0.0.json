@@ -10,7 +10,7 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "huawei",
       "mode_ads_interstitial": "huawei",
       "mode_ads_native": "huawei",
@@ -48,10 +48,10 @@
         "adcolony_rewarded_id": ""
       },
       "huawei": {
-        "huawei_banner_id": "testw6vs28auh3",
-        "huawei_interstitial_id": "estb4znbuh3n2",
-        "huawei_native_id": "testy63txaom86",
-        "huawei_rewarded_id": "testx9dtjwj8hp"
+        "huawei_banner_id": "w9lwjivoit",
+        "huawei_interstitial_id": "n5wakmcmng",
+        "huawei_native_id": "l91wniy84u",
+        "huawei_rewarded_id": "t9lk783kan"
       }
     },
     "update": {
@@ -103,16 +103,16 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 4000
           }
         }
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": false,
+        "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": false
+        "interstitial_ad": true
       }
     }
   },
